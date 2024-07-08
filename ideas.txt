@@ -1,0 +1,35 @@
+Features
+A hero section that provides a brief introduction to you and your background.
+-hi i am sindi
+-foto
+-brienf introduction per ca bej
+Centered hero
+https://getbootstrap.com/docs/5.3/examples/heroes/
+
+A resume page that lists your education, work experience, skills, and other relevant information (you can link to Capstone project 1).
+https://getbootstrap.com/docs/5.3/examples/features/
+Columns with icons
+Education: IMI Certifications: pathway
+work:photo editor, finance intern Aluflor
+skills: 
+
+A section that showcases any projects or work that you have done in the past.
+https://getbootstrap.com/docs/5.3/examples/features/
+Custom cards(image, name of project and short description)
+Mondrian Project
+TinDog
+Flexbox froggy completed
+
+An about me section that provides additional information about you and your interests.
+.list-group-flush
+https://getbootstrap.com/docs/5.3/components/list-group/#flush
+-Taekwondo
+-Selfdef
+-Writing
+
+
+A contact me section that includes information for users to get in touch with you.
+Contact me.(icons to take u to linkedin, github, email, nr)
+
+color palette
+https://colorhunt.co/palette/ff90bcffc0d9f9f9e08acdd7
